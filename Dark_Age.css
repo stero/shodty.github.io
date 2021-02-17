@@ -44,8 +44,8 @@
     --sidebar-h1-size: 26px;			  /* DEFAULT 26px. sidebar page headings */
     /* DROPDOWN MENU */
     --dropdown-menu-background: #464545; /* Dropdown menu background color */
-    --dropdown-menu-highlight: #3e3d3d;  /* Dropdown menu item highlight */
-    --dropdown-menu-text: #FFFFFFB2;       /* Text color in dropdown menus */
+    --dropdown-menu-highlight: #d3d3d3;  /* Dropdown menu item highlight */
+    --dropdown-menu-text: #FFFFB2;       /* Text color in dropdown menus */
     --dropdown-newpage: #1AD546;
     /* SEARCH BAR */
     --search-bar-background: #26272a;
